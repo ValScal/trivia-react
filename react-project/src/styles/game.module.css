@@ -1,0 +1,23 @@
+.game {
+  .subtitle {
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-bottom: 5px;
+
+    .game_info {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-content: center;
+      justify-content: space-around;
+
+      span {
+        font-size: 0.7rem;
+        background: rgba(255, 255, 255, 0.1);
+        padding: 2px 5px;
+        border-radius: 4px;
+      }
+    }
+  }
+}
