@@ -1,0 +1,18 @@
+.result {
+  p {
+    text-align: center;
+  }
+
+  .title {
+    font-size: 2rem;
+    font-weight: 500;
+  }
+
+  a {
+    font-size: 0.8rem;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    border-radius: 10px;
+    color: #b1b1b1;
+  }
+}
