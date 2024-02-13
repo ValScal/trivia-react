@@ -1,9 +1,7 @@
 import { useEffect, useState } from "react";
 import { ColorRing } from "react-loader-spinner";
-import Question from "./../components/Question/question";
+import Question from "../components/Question/question";
 import styles from "../styles/game.module.css";
-
-// import "./game.css";
 
 export default function Game({
   name,
