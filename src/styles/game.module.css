@@ -1,9 +1,11 @@
 .game {
+  
   .subtitle {
     text-align: center;
     font-size: 1.3rem;
     font-weight: 500;
     margin-bottom: 5px;
+  }
 
     .game_info {
       display: flex;
@@ -20,4 +22,4 @@
       }
     }
   }
-}
+
