@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <>
       <header>
-        <img src="./src/assets/app-logo.png" alt="Trivia Time" />
+        <img src="/app-logo.png" alt="Trivia Time" />
       </header>
     </>
   );
