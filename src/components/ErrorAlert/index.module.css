@@ -6,4 +6,5 @@
   background-color: rgb(255, 32, 91);
   text-align: center;
   color: #fff;
+  box-sizing: border-box;
 }
