@@ -4,6 +4,8 @@ footer {
   text-align: center;
   font-size: 0.8rem;
   margin: 0 auto;
+  max-width: 460px;
+  width: 100%;
 
   span {
     text-align: center;
