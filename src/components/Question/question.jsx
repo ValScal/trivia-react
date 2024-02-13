@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router";
 import { Link } from "react-router-dom";
-import styles from "./question.module.css";
+import styles from "/question.module.css";
 import ErrorAlert from "../ErrorAlert";
 
 export default function Question({
