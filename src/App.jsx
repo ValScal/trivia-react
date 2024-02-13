@@ -1,12 +1,12 @@
 import { useState, useEffect } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { ColorRing } from "react-loader-spinner";
-import Home from "./routes/index.jsx";
-import Game from "./routes/game.jsx";
-import Score from "./routes/score.jsx";
-import Header from "./components/Header/index";
-import Footer from "./components/Footer/index";
-import styles from "./App.module.css";
+import Home from "/routes/index.jsx";
+import Game from "/routes/game.jsx";
+import Score from "/routes/score.jsx";
+import Header from "/components/Header/index";
+import Footer from "/components/Footer/index";
+import styles from "/App.module.css";
 
 export default function App() {
   const [name, setName] = useState("");
